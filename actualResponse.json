@@ -1,0 +1,36 @@
+{
+ "nav_links": [
+  {
+   "name": "Banaan Chiquita, kg",
+   "barcode": "2700001000006",
+   "price": "1,19 €",
+   "category": "Avaleht/Puu- ja köögiviljad/Troopilised, eksootilised viljad",
+   "manufacturer": "Määramata",
+   "country_of_origin": "Costa Rica"
+  },
+  {
+   "name": "Kodune hakkliha, RAKVERE LK, 400 g",
+   "barcode": "4740003003771",
+   "price": "1,79 €",
+   "category": "Avaleht/Liha- ja kalatooted/Hakkliha",
+   "manufacturer": "HKSCAN ESTONIA AS",
+   "country_of_origin": "Eesti"
+  },
+  {
+   "name": "Piim 2,5% kiles, ALMA, 1 l",
+   "barcode": "4740125110012",
+   "price": "0,59 €",
+   "category": "Avaleht/Piimatooted, munad, võid/Piimad, koored",
+   "manufacturer": "VALIO EESTI AS",
+   "country_of_origin": "Eesti"
+  },
+  {
+   "name": "Sulatatud juust, MEREVAIK, 200 g",
+   "barcode": "4740500000105",
+   "price": "1,35 €",
+   "category": "Avaleht/Piimatooted, munad, võid",
+   "manufacturer": "TERE AS",
+   "country_of_origin": "Eesti"
+  }
+ ]
+}

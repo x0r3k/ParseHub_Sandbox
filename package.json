@@ -1,0 +1,23 @@
+{
+  "name": "shop_parser",
+  "version": "1.0.0",
+  "description": "shop parsing sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parse",
+    "crawl",
+    "shop",
+    "supermarket",
+    "selver"
+  ],
+  "author": "KDolhopolov",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "qs": "^6.10.1"
+  }
+}

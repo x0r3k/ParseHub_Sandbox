@@ -1,0 +1,100 @@
+{
+  "name": "SELVER",
+  "website": "https://www.selver.ee/",
+  "categories": [
+    {
+      "category_et": "PIIMATOOTED, MUNAD, VÕID",
+      "subcategories": [
+        {
+          "subcategory_et": "MUNAD",
+          "products": [
+            {
+              "barcode": "4740229011086",
+              "name_et": "Tervisemunad M10, EGGO, 10 tk, valged munad",
+              "price": 1.79,
+              "currency": "€",
+              "manufacturer": "DAVA FOODS ESTONIA OÜ",
+              "country of origin": "Estonia"
+            },
+            {
+              "barcode": "4740229011598",
+              "name_et": "Mahemunad valged, 6tk",
+              "price": 2.19,
+              "currency": "€",
+              "manufacturer": "DAVA FOODS ESTONIA OÜ",
+              "country of origin": "Finland"
+            }
+          ]
+        },
+        {
+          "subcategory_et": "PIIMAD, KOORED",
+          "products": [
+            {
+              "barcode": "4740125321203",
+              "name_et": "Keefir 2,5%, VALIO GEFILUS, 1,5 kg",
+              "price": 1.29,
+              "currency": "€",
+              "manufacturer": "VALIO EESTI AS",
+              "country of origin": "Estonia"
+            },
+            {
+              "barcode": "4740125000108",
+              "name_et": "Piim 2,5% pure, ALMA, 1 l",
+              "price": 0.79,
+              "currency": "€",
+              "manufacturer": "VALIO EESTI AS",
+              "country of origin": "Estonia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_et": "PUU- JA KÖÖGIVILJAD",
+      "subcategories": [
+        {
+          "subcategory_et": "TROOPILISED, EKSOOTILISED VILJAD",
+          "products": [
+            {
+              "barcode": "2700001000006",
+              "name_et": "Banaan Chiquita, kg",
+              "price": 1.19,
+              "currency": "€",
+              "manufacturer": null,
+              "country of origin": "Costa Rica"
+            },
+            {
+              "barcode": "4740669000602",
+              "name_et": "Avokaado karbis Ready to Eat, 300 g",
+              "price": 2.99,
+              "currency": "€",
+              "manufacturer": "Not specified",
+              "country of origin": "Mexico"
+            }
+          ]
+        },
+        {
+          "subcategory_en": "VEGETABLES, VEGETABLES",
+          "products": [
+            {
+              "barcode": "2700013000001",
+              "name_et": "Kurk Luunja, kg",
+              "price": 5.99,
+              "currency": "€",
+              "manufacturer": "Not specified",
+              "country of origin": "Estonia"
+            },
+            {
+              "barcode": "4740608061190",
+              "name_et": "Piim 2,5% pure, ALMA, 1 l",
+              "price": 1.99,
+              "currency": "€",
+              "manufacturer": "Not specified",
+              "country of origin": "Morocco"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
